@@ -1,0 +1,600 @@
+address
+openEHR-EHR-CLUSTER.address.v1
+{date=2007-11-11, name=Ian McNicoll, organisation=Ocean Informatics}
+
+adhoc_cluster_heading
+openEHR-EHR-CLUSTER.adhoc_cluster_heading.v1
+{date=2013-05-14, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+ambient_oxygen
+openEHR-EHR-CLUSTER.ambient_oxygen.v1
+{date=2009-06-08, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+amount
+openEHR-EHR-CLUSTER.amount-range.v1
+{date=10/11/2010, name=Sam Heard, organisation=NEHTA, email=sam.heard@oceaninformatics.com}
+
+amount
+openEHR-EHR-CLUSTER.amount.v1
+{date=10/11/2010, name=Sam Heard, organisation=NEHTA, email=sam.heard@oceaninformatics.com}
+
+anatomical_location
+openEHR-EHR-CLUSTER.anatomical_location-precise.v1
+{date=10/11/2008, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+anatomical_location
+openEHR-EHR-CLUSTER.anatomical_location.v1
+{date=2008-11-10, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+asa_status
+openEHR-EHR-CLUSTER.asa_status.v1
+{date=2010-06-25, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+auscultation
+openEHR-EHR-CLUSTER.auscultation-chest.v1
+{date=7/04/2007, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+auscultation
+openEHR-EHR-CLUSTER.auscultation.v1
+{date=7/04/2007, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+balance
+openEHR-EHR-CLUSTER.balance.v1
+{date=2007-03-19, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+case_identification
+openEHR-EHR-CLUSTER.case_identification.v1
+{date=08/12/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+cessation_attempts
+openEHR-EHR-CLUSTER.cessation_attempts.v1
+{date=22/06/2009, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+change
+openEHR-EHR-CLUSTER.change.v1
+{date=2008-01-01, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+chemical_description
+openEHR-EHR-CLUSTER.chemical_description.v1
+{date=12/11/2010, name=Sam Heard, organisation=NEHTA, email=sam.heard@oceaninformatics.com}
+
+citation
+openEHR-EHR-CLUSTER.citation.v1
+{date=18/06/2010, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+clubbing
+openEHR-EHR-CLUSTER.clubbing.v1
+{date=27/07/2008, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+consent_details
+openEHR-EHR-CLUSTER.consent_details.v1
+{date=2012-11-20, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+coordination
+openEHR-EHR-CLUSTER.coordination.v1
+{date=19/03/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+cranial_nerves
+openEHR-EHR-CLUSTER.cranial_nerves.v1
+{date=12/03/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+delivery_of_infant
+openEHR-EHR-CLUSTER.delivery_of_infant.v1
+{date=13/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+device
+openEHR-EHR-CLUSTER.device-headphone.v1
+{date=2012-12-21, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+device
+openEHR-EHR-CLUSTER.device-hearing_test_instrument.v1
+{date=2012-12-21, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+device
+openEHR-EHR-CLUSTER.device.v1
+{date=2010-06-29, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+device_details
+openEHR-EHR-CLUSTER.device_details.v1
+{date=16/08/2010, name=Ian McNicoll, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+dimensions
+openEHR-EHR-CLUSTER.dimensions.v1
+{name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+distribution
+openEHR-EHR-CLUSTER.distribution.v1
+{date=2008-07-07, name=D B Hutchinson, organisation=NHS CFH UK}
+
+document_entry_metadata
+openEHR-EHR-CLUSTER.document_entry_metadata.v1
+{date=2012-01-30, name=Sistine Barretto-Daniels, organisation=Ocean Informatics Pty Ltd, email=Sistine.Barretto-Daniels@oceaninformatics.com}
+
+ear_cleaning
+openEHR-EHR-CLUSTER.ear_cleaning.v1
+{date=2012-12-05, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+education
+openEHR-EHR-CLUSTER.education.v1
+{date=2010-12-21, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+environment
+openEHR-EHR-CLUSTER.environment.v1
+{date=23.7.2014, name=Václav Papež, organisation=University of West Bohemia, email=vpapez@kiv.zcu.cz}
+
+environmental_conditions
+openEHR-EHR-CLUSTER.environmental_conditions.v1
+{date=19/07/2008, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-abdomen.v1
+{date=11/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-bone.v1
+{date=10/07/2010, name=Heather Leslie, organisation=Ocean Informatics, Australia, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-chest.v1
+{date=9/04/2007, name=Sam Heard, organisation=Ocean Informatics, email=Sam.Heard@OceanInformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-ears.v1
+{date=02/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-face.v1
+{date=23/05/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-fetus.v1
+{date=19/04/2007, name=Sam Heard, organisation=Ocean Informatics, Australia, email=sam.heard@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-generic-joint.v1
+{date=23/04/2007, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-generic-lymphnode.v1
+{date=02/04/2007, name=Heather Leslie, organisation=Ocean Informatics, Australia, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-generic.v1
+{date=02/04/2007, name=Heather Leslie, organisation=Ocean Informatics, Australia, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-mouth.v1
+{date=23/05/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-nose.v1
+{date=02/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-thyroid.v1
+{date=22/05/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-uterine_cervix.v1
+{date=02/ 04/2007, name=Heather Leslie, organisation=Ocean Informatics, Australia, email=heather.leslie@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam-uterus.v1
+{date=08/04/2007, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+exam
+openEHR-EHR-CLUSTER.exam.v1
+{date=10/07/2010, name=Heather Leslie, organisation=Ocean Informatics, Australia, email=heather.leslie@oceaninformatics.com}
+
+exam_ears
+openEHR-EHR-CLUSTER.exam_ears.v1
+{date=2013-02-05, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam_generic
+openEHR-EHR-CLUSTER.exam_generic.v1
+{date=2013-02-05, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam_middle_ear
+openEHR-EHR-CLUSTER.exam_middle_ear.v1
+{date=2013-03-20, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam_pinna
+openEHR-EHR-CLUSTER.exam_pinna.v1
+{date=2013-02-05, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exam_pupils
+openEHR-EHR-CLUSTER.exam_pupils.v1
+{date=2012-12-21, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+exam_tympanic_membrane
+openEHR-EHR-CLUSTER.exam_tympanic_membrane.v1
+{date=2012-09-03, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exclusion_exam
+openEHR-EHR-CLUSTER.exclusion_exam.v1
+{date=2015-01-14, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+exclusion_symptom
+openEHR-EHR-CLUSTER.exclusion_symptom.v1
+{name=}
+
+fluid
+openEHR-EHR-CLUSTER.fluid.v1
+{date=12/06/2010, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+free_text
+openEHR-EHR-CLUSTER.free_text.v1
+{name=unknown}
+
+gait
+openEHR-EHR-CLUSTER.gait.v1
+{name=unknown}
+
+health_event
+openEHR-EHR-CLUSTER.health_event-poisoning.v1
+{date=12/03/2007, name=unknown}
+
+health_event
+openEHR-EHR-CLUSTER.health_event-trauma.v1
+{name=unknown}
+
+health_event
+openEHR-EHR-CLUSTER.health_event.v1
+{name=unknown}
+
+hip_arthroplasty_component
+openEHR-EHR-CLUSTER.hip_arthroplasty_component.v1
+{date=2014-03-27, name=Ian McNicoll, organisation=Ocean Informatics UK, email=ian.mcnicoll@oceaninformatics.com}
+
+home_environment
+openEHR-EHR-CLUSTER.home_environment.v1
+{date=2013-03-08, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+household
+openEHR-EHR-CLUSTER.household.v1
+{date=2013-03-01, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+housing
+openEHR-EHR-CLUSTER.housing.v1
+{date=2013-03-01, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+hydration
+openEHR-EHR-CLUSTER.hydration.v1
+{date=2007-03-12, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+imaging
+openEHR-EHR-CLUSTER.imaging.v1
+{date=14/12/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+individual_personal
+openEHR-EHR-CLUSTER.individual_personal.v1
+{date=12/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+individual_professional
+openEHR-EHR-CLUSTER.individual_professional.v1
+{date=12/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-ear_canal.v1
+{date=02/11/2007, name=Ian McNicoll, organisation=Ocean Informatics}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-external_ear.v1
+{date=02/11/2007, name=Ian McNicoll, organisation=Ocean Informatics}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-joint.v1
+{date=23/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-skin-scalp.v1
+{date=10/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-skin-wound.v1
+{date=10/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-skin.v1
+{date=10/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-tongue.v1
+{date=23/05/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-trauma.v1
+{date=23/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-tympanic_membrane.v1
+{date=02/11/2007, name=Ian McNicoll, organisation=Ocean Informatics}
+
+inspection
+openEHR-EHR-CLUSTER.inspection-tympanic_perforation.v1
+{date=10/11/2007, name=Ian McNicoll, organisation=Ocan Informatics}
+
+inspection
+openEHR-EHR-CLUSTER.inspection.v1
+{name=unknown}
+
+issue
+openEHR-EHR-CLUSTER.issue.v1
+{date=23/04/2006, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+lab_result_annotation
+openEHR-EHR-CLUSTER.lab_result_annotation.v1
+{date=08/12/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+level_of_exertion
+openEHR-EHR-CLUSTER.level_of_exertion.v1
+{date=2008-10-27, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+lymph_node_metastases
+openEHR-EHR-CLUSTER.lymph_node_metastases.v1
+{date=17/05/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+macroscopy_colorectal_carcinoma
+openEHR-EHR-CLUSTER.macroscopy_colorectal_carcinoma.v1
+{date=17/06/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+macroscopy_lung_carcinoma
+openEHR-EHR-CLUSTER.macroscopy_lung_carcinoma.v1
+{date=11/10/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+medication_admin
+openEHR-EHR-CLUSTER.medication_admin.v1
+{date=2013-05-16, name=Sam Heard, organisation=openEHR Foundation, email=sam.heard@oceaninformatics.com}
+
+medication_amount
+openEHR-EHR-CLUSTER.medication_amount.v1
+{date=2012-12-03, name=Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+medication_ingredients
+openEHR-EHR-CLUSTER.medication_ingredients.v1
+{date=2013-05-16, name=Sam Heard, organisation=Ocean Informatics, UK, email=sam.heard@oceaninformatics.com}
+
+menstrual_cycle
+openEHR-EHR-CLUSTER.menstrual_cycle.v1
+{date=19/03/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+microscopy_breast_carcinoma
+openEHR-EHR-CLUSTER.microscopy_breast_carcinoma.v1
+{date=2009-06-17, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+microscopy_colorectal_carcinoma
+openEHR-EHR-CLUSTER.microscopy_colorectal_carcinoma.v1
+{date=17/06/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+microscopy_lung_carcinoma
+openEHR-EHR-CLUSTER.microscopy_lung_carcinoma.v1
+{date=17/06/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+microscopy_lymphoma
+openEHR-EHR-CLUSTER.microscopy_lymphoma.v1
+{date=26/04/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+microscopy_melanoma
+openEHR-EHR-CLUSTER.microscopy_melanoma.v1
+{date=17/05/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+microscopy_prostate_carcinoma
+openEHR-EHR-CLUSTER.microscopy_prostate_carcinoma.v1
+{date=17/06/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+move
+openEHR-EHR-CLUSTER.move-joint.v1
+{name=unknown}
+
+move
+openEHR-EHR-CLUSTER.move-spine.v1
+{name=unknown}
+
+move
+openEHR-EHR-CLUSTER.move.v1
+{name=unknown}
+
+multimedia
+openEHR-EHR-CLUSTER.multimedia.v1
+{date=2014-10-22, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+myringoplasty
+openEHR-EHR-CLUSTER.myringoplasty.v1
+{date=2013-03-21, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+myringotomy
+openEHR-EHR-CLUSTER.myringotomy.v1
+{date=2013-03-21, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+notifiable_condition
+openEHR-EHR-CLUSTER.notifiable_condition.v1
+{date=08/12/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+oedema
+openEHR-EHR-CLUSTER.oedema.v1
+{date=2007-04-09, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+organisation
+openEHR-EHR-CLUSTER.organisation.v1
+{date=12/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+outbreak_identification
+openEHR-EHR-CLUSTER.outbreak_identification.v1
+{date=08/12/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+palpation
+openEHR-EHR-CLUSTER.palpation-external_ear.v1
+{date=02/11/2007, name=Ian McNicoll, organisation=Ocean Informatics}
+
+palpation
+openEHR-EHR-CLUSTER.palpation-joint.v1
+{date=23/04/2007, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+palpation
+openEHR-EHR-CLUSTER.palpation.v1
+{name=unknown}
+
+palpation_of_cervix
+openEHR-EHR-CLUSTER.palpation_of_cervix.v1
+{date=2011-04-02, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+palpation_of_fetus
+openEHR-EHR-CLUSTER.palpation_of_fetus.v1
+{date=2007-04-19, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+palpation_of_uterus
+openEHR-EHR-CLUSTER.palpation_of_uterus.v1
+{date=2007- 04-08, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+percussion
+openEHR-EHR-CLUSTER.percussion.v1
+{date=6/04/2007, name=Sam Heard, organisation=Ocean Informatics, email=sam.heard@oceaninformatics.com}
+
+person_name
+openEHR-EHR-CLUSTER.person_name.v1
+{date=2011-11-07, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+physical_properties
+openEHR-EHR-CLUSTER.physical_properties.v1
+{date=2009-01-27, name=Dr Ian McNicoll, organisation=openEHR Archetype Editorial Group / Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+problem_status
+openEHR-EHR-CLUSTER.problem_status.v1
+{date=2013-05-29, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+professional_role
+openEHR-EHR-CLUSTER.professional_role.v1
+{date=12/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+pupils
+openEHR-EHR-CLUSTER.pupils.v1
+{name=????}
+
+refraction_details
+openEHR-EHR-CLUSTER.refraction_details.v1
+{date=2012-09-10, name=Gustavo M Bacelar-Silva, email=mail@gustavobacelar.com}
+
+relative_location
+openEHR-EHR-CLUSTER.relative_location.v1
+{date=2008-11-10, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+sade_classification
+openEHR-EHR-CLUSTER.sade_classification.v1
+{date=2012-09-07, name=Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+sense_of_smell
+openEHR-EHR-CLUSTER.sense_of_smell.v1
+{date=14/11/2007, name=Heather Leslie, organisation=Ocean Informatics}
+
+specimen
+openEHR-EHR-CLUSTER.specimen.v1
+{date=2009-01-27, name=Dr Ian McNicoll, organisation=openEHR Archetype Editorial Group / Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+specimen_preparation
+openEHR-EHR-CLUSTER.specimen_preparation.v1
+{date=27/01/2009, name=Dr Ian McNicoll, organisation=openEHR Archetype Editorial Group / Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+strategy
+openEHR-EHR-CLUSTER.strategy.v1
+{date=2013-04-08, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+symptom
+openEHR-EHR-CLUSTER.symptom-pain.v1
+{date=2007-02-20, name=Tony Shannon, organisation=UK NHS, Connecting for Health, email=tony.shannon@nhs.net}
+
+symptom
+openEHR-EHR-CLUSTER.symptom.v1
+{date=2007-02-20, name=Tony Shannon, organisation=UK NHS, Connecting for Health, email=tony.shannon@nhs.net}
+
+synthesis_lymphoma
+openEHR-EHR-CLUSTER.synthesis_lymphoma.v1
+{date=21/03/2010, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+telecom_details
+openEHR-EHR-CLUSTER.telecom_details.v1
+{date=14/11/2007, name=Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+timing
+openEHR-EHR-CLUSTER.timing.v1
+{date=2013-05-16, name=Sam Heard, organisation=openEHR Foundation, email=sam.heard@oceaninformatics.com}
+
+tnm_staging
+openEHR-EHR-CLUSTER.tnm_staging-breast.v1
+{date=2009-07-22, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging
+openEHR-EHR-CLUSTER.tnm_staging-colorectal.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging
+openEHR-EHR-CLUSTER.tnm_staging-lung_cancer.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, UK, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging
+openEHR-EHR-CLUSTER.tnm_staging-melanoma.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging
+openEHR-EHR-CLUSTER.tnm_staging-prostate.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging
+openEHR-EHR-CLUSTER.tnm_staging.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th-breast.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th-colorectal.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th-lung.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th-lymphoma.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th-melanoma.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th-prostate.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tnm_staging_7th
+openEHR-EHR-CLUSTER.tnm_staging_7th.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tos_classification
+openEHR-EHR-CLUSTER.tos_classification.v1
+{date=2013-01-14, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+triage_priority
+openEHR-EHR-CLUSTER.triage_priority.v1
+{date=2013-03-18, name=Heather Leslie, organisation=Ocean Informatics, email=heather.leslie@oceaninformatics.com}
+
+tumour_colorectal_staging_non_tnm
+openEHR-EHR-CLUSTER.tumour_colorectal_staging_non_tnm.v1
+{date=19/08/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
+tumour_invasion
+openEHR-EHR-CLUSTER.tumour_invasion.v1
+{date=27/07/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, Scotland, email=ian.mcnicoll@oceaninformatics.com}
+
+tumour_resection_margins
+openEHR-EHR-CLUSTER.tumour_resection_margins.v1
+{date=17/05/2009, name=Dr Ian McNicoll, organisation=Ocean Informatics, email=ian.mcnicoll@oceaninformatics.com}
+
+tympanic_ventilation_tube
+openEHR-EHR-CLUSTER.tympanic_ventilation_tube.v1
+{date=10/11/2007, name=Ian McNicoll, organisation=Ocean Informatics}
+
+waveform
+openEHR-EHR-CLUSTER.waveform.v1
+{date=2010-01-28, name=Dr Ian McNicoll, organisation=Ocean Informatics, United Kingdom, email=ian.mcnicoll@oceaninformatics.com}
+
