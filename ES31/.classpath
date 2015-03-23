@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/elasticsearch-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/antlr-runtime-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/asm-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/asm-commons-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/groovy-all-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/jts-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-analyzers-common-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-core-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-expressions-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-grouping-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-highlighter-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-join-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-memory-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-misc-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-queries-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-queryparser-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-sandbox-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-spatial-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/lucene-suggest-4.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mara/Desktop/ZSWI/ES/lib/spatial4j-0.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

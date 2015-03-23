@@ -1,0 +1,15 @@
+{
+        "name":"mereni tlaku",
+        "properties":
+        {
+                "id":
+                {
+                        "type":"number"
+                },
+                "mereni":
+                {
+                        "type":"string"
+                }
+        }
+
+}
