@@ -5,7 +5,7 @@ import org.openehr.am.archetype.Archetype;
 import se.acode.openehr.parser.ADLParser;
 
 /**
- * Loading and parsing archetypes
+ * Loading and parsing archetypes (ADL files)
  * @author Markéta Wolfová
  */
 public class Loader {
@@ -13,20 +13,20 @@ public class Loader {
     /**
      * Loading archetypes
      * @param dirPath path to a directory with archetypes
-     * @return archetypes Array list with archetypes (ADL files)
+     * @return ArrayList with archetypes (ADL files) found in specified direcotry
      */
     public static ArrayList<File> LoadFiles( String dirPath ) {
         
         File dir = new File( dirPath );
-        ArrayList<File> archetypes = new ArrayList(); // seznam cest k archetypum
+        ArrayList<File> archetypes = new ArrayList(); // list of paths to archetypes
         
-        File files[] = dir.listFiles(); // pole vsech souboru ve slozce dir
+        File files[] = dir.listFiles(); // array of all files in specified directory
         int pocetArch = 0;
         try {
             for ( int i = 0; i < files.length; i++ ) {
             
                 String filePath = files[ i ].getAbsolutePath();
-                if ( filePath.substring( filePath.length() - 4 ).equals( ".adl" )) { // kontrola formatu, nacita jen ADL soubory
+                if ( filePath.substring( filePath.length() - 4 ).equals( ".adl" )) { // controlling formats, loads only ADL files to new ArrayList
 
                     archetypes.add( new File( filePath ));
                     pocetArch++;
@@ -35,13 +35,13 @@ public class Loader {
         }
         catch( Exception e ) {
                 
-            System.out.println( "Wrong directory path or empty directory." );
+            System.out.println( "ERROR: Wrong directory path or empty directory." );
             System.exit( 0 );
         }
         
         if ( pocetArch == 0 ) {
         
-            System.out.println( "Directory does not contain any archetype files." );
+            System.out.println( "WARNING: Directory does not contain any archetype files." );
             System.exit( 0 );
         }
         
@@ -49,8 +49,8 @@ public class Loader {
     }
     
     /**
-     * Parsing archetypes
-     * @param archetypes Array list with archetypes (ADL files)
+     * Parsing archetypes to objects (AOM files)
+     * @param archetypes ArrayList with archetypes (ADL files)
      * @return archetypeObjects array with archetypes parsed to objects (AOM files)
      */
     public static Archetype[] ParseFiles( ArrayList<File> archetypes ) {
