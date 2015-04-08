@@ -1,6 +1,5 @@
 
 import java.io.PrintWriter;
-import java.util.ArrayList;
 
 
 /**
@@ -11,7 +10,6 @@ public class ArchetypeTree {
     
     ArchetypeNode root = null;
     ArchetypeNode node, nodeParent;
-    ArrayList<ArchetypeNode> nodesWaiting;
     
     /**
      * creates instance of tree
