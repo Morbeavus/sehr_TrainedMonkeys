@@ -1,0 +1,47 @@
+{
+   "description""cluster",
+   "name":"openEHR-EHR-CLUSTER.address.v1",
+   "postDate":"03/03/2015 23:24:22",
+   "properties":{
+       "at0000":{
+	"type":"object",
+            "at0001":{
+		"type":"object",
+                "at0004":{
+                    "type":"String",
+                    "isRequired":"false"
+                },
+                "at0015":{
+		"type":"object",
+                    "at0007":{
+                        "type":"Date",
+                        "isRequired":"false"
+                    },
+                    "at0008":{
+                        "type":"Date",
+                        "isRequired":"false"
+                    }
+                },
+                "at0006":{
+                    "type":"String",
+                    "isRequired":"true"
+                },
+                "at0002":{
+                    "type":"String",
+                    "isRequired":"false"
+                },
+                "at0003":{
+		"type":"object",
+                    "at0005":{
+                        "type":"String",
+                        "isRequired":"false"
+                    },
+                    "at0009":{
+                        "type":"String",
+                        "isRequired":"false"
+                    }
+                }
+            }
+       }
+   }
+}

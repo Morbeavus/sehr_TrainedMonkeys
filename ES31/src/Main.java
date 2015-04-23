@@ -27,7 +27,7 @@ public class Main {
     * saves name of an index(description), type(name), postdate and properities
     *
     * @param path indicates path to json file
-     * @return 
+    * @return 
     */
     
     public static int load(String path){
