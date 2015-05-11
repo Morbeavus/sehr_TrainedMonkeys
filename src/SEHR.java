@@ -39,7 +39,7 @@ public class SEHR {
     /**
      * convenience method to welcome user
      */
-    static void welcomeInstructions()
+    public static void welcomeInstructions()
     {
         System.out.println("Welcome to SEHR - Semantic Electonic Health Record");
         System.out.println("- path example: C:\\Users\\Admin\\Documents\\archetypes");
